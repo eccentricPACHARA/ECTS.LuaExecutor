@@ -1,15 +1,15 @@
-# ECTS.LuaExecutor
+# ECCENTRIC
 lua executor for roblox game 
 
 <br/>
 
-**STATUS : DOWN**
+**STATUS : UP**
 
 <br/>
 
 
 <br/>
-now you won't be able to download due to it is down and waiting for update
+download & get key at https://discord.gg/neEe4Y2rt7
 <br/>
 
 
