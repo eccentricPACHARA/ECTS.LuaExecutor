@@ -9,6 +9,7 @@ lua executor for roblox game
 
 
 <br/>
+we got both Thai and English version 
 download & get key at https://discord.gg/neEe4Y2rt7
 <br/>
 
