@@ -14,4 +14,5 @@ download & get key at https://discord.gg/neEe4Y2rt7
 
 
 
-![image](https://user-images.githubusercontent.com/47096657/187244445-9e7fac9f-6bb9-4514-b42f-3b74e7629d29.png)
+
+![ect](https://user-images.githubusercontent.com/47096657/194698831-9208ddef-e73e-4257-a310-42d2ed74ac28.PNG)
